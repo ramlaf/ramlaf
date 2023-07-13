@@ -6,7 +6,7 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 1
 scholar:
-  style: modern-language-association
+  style: apa
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
