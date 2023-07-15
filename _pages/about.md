@@ -9,7 +9,8 @@ profile:
   image: ramiro_sydney.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>School of Maths and Physics, UQ</p>
+    <p>School of Maths and Physics</p>
+    <p>The University of Queensland</p>
     <p>St Lucia QLD 4072</p>
     <p>Brisbane, Australia</p>
 
